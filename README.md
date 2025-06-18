@@ -108,6 +108,7 @@ Each log entry in `logs/encryption_log.json` contains:
 - `keys/private.pem` → hide private keys  
 - `__pycache__/` and other build cache files  
 - `.env`, IDE, and system files
+-  you have to create the log file and give the appropriate path when run the project
 
 ---
 
