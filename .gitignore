@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Encrypted and Decrypted files
+*.enc
+*.dec
+
+# RSA Keys
+keys/private.pem
+keys/public.pem
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Jupyter Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
