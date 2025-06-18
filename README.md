@@ -109,6 +109,7 @@ Each log entry in `logs/encryption_log.json` contains:
 - `__pycache__/` and other build cache files  
 - `.env`, IDE, and system files
 -  you have to create the log file and give the appropriate path when run the project
+-  you have to create two file named in the structure as well and make sure not to visible any one
 
 ---
 
