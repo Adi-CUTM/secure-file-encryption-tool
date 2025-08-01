@@ -68,6 +68,8 @@ pip install pycryptodome
 
 ```bash
 python gui/main_gui.py
+
+python -m gui.main_gui
 ```
 
 ---
